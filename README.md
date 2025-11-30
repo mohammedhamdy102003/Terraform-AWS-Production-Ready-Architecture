@@ -80,12 +80,12 @@ project/
 
 ---
 
-## 🔧 **How to Deploy**
+## 🔧 **خطوات النشر (How to Deploy)**
 
-### **1️⃣ Initialize Terraform**
-```bash\ nterraform init
-```
+### **1️⃣ تهيئة Terraform (Initialize Terraform)**
 
+```bash
+terraform init
 ### **2️⃣ Validate**
 ```bash\ nterraform validate
 ```
@@ -171,5 +171,4 @@ This project represents a **real production-grade system** and is perfect for:
 - Learning AWS & IaC deeply
 - Demonstrating real deployment experience
 
-لو عايز أضيف أمثلة كود داخل كل Module، أو Diagram SVG، أو شرح تفصيلي لكل جزء—قولي وأنا أزودهم لك.
 
